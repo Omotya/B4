@@ -1,0 +1,14 @@
+PWD /Users/toipot/Documents/github/B4/newcomer/1
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/latex.fmt
+INPUT /Users/toipot/Documents/github/B4/newcomer/1/report.tex
+OUTPUT report.log
+INPUT /usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/ltjsarticle.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/ltjsarticle.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/luatexja.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/luatexja.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/luatexja-core.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/luatexja-core.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty

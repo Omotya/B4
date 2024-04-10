@@ -1,0 +1,22 @@
+# Fdb version 4
+["dvipdf"] 0 "report.dvi" "report.pdf" "report" 0 -1
+  "report.dvi" 0 -1 0 "latex"
+  (generated)
+  "report.pdf"
+  (rewritten before read)
+["latex"] 1712327107.43125 "/Users/toipot/Documents/github/B4/newcomer/1/report.tex" "report.dvi" "report" 1712327107.58389 2
+  "/Users/toipot/Documents/github/B4/newcomer/1/report.tex" 1712327105.94836 1251 8b483cd4ad6d85eb4eddf3fd19479957 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1575499628 8356 7bbb2c2373aa810be568c29e333da8ed ""
+  "/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/ltjsarticle.cls" 1664742158 54048 93eefc8b4e019ecace6b76a007000556 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/luatexja-core.sty" 1703971602 29891 95fb1b438599889b63eb75ea39dd702b ""
+  "/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/luatexja.sty" 1708376363 1973 29a03955e3dfdf207d91a8e3161fada3 ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/latex.fmt" 1712326456 8222978 c3577b478449e3940a8f47d680fa7e8b ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "report.aux" 0 -1 0 "latex"
+  "report.tex" 1712327105.94836 1251 8b483cd4ad6d85eb4eddf3fd19479957 ""
+  (generated)
+  "report.aux"
+  "report.dvi"
+  "report.log"
+  (rewritten before read)
